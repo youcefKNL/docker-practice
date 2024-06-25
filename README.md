@@ -1,19 +1,14 @@
 <p align="center">
      <img src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" alt="Logo Docker">
 </p>
+
 # Docker Sandbox Project
 
 Ce projet est conçu comme un bac à sable pour apprendre et expérimenter avec Docker et ses fonctionnalités.
 
-
-
-
-![Logo](https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png)
-
-
-![GitHub](https://badgen.net/badge/icon/github?icon=github&label)
-
+<p align="center">
 ![bloggif_641707289dd35](https://user-images.githubusercontent.com/121979440/226178293-94da6374-9b46-44f2-aaf1-a18abe5a6a04.gif)
+</p>
 
 ![Capture vidéo du 19-03-2023 13_56_10](https://user-images.githubusercontent.com/121979440/226178382-25e03df8-0c86-49f5-b48f-ca4ddf109919.gif)
 
