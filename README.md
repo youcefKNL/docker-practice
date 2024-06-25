@@ -11,9 +11,9 @@ Ce projet est conçu comme un bac à sable pour apprendre et expérimenter Docke
 ![Capture vidéo du 19-03-2023 13_56_10](https://user-images.githubusercontent.com/121979440/226178382-25e03df8-0c86-49f5-b48f-ca4ddf109919.gif)
 
 
-                                                                       
+<div align="center">                                                                  
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
+</div>
 
 
 
