@@ -11,9 +11,8 @@ Ce projet est conçu comme un bac à sable pour apprendre et expérimenter Docke
 ![Capture vidéo du 19-03-2023 13_56_10](https://user-images.githubusercontent.com/121979440/226178382-25e03df8-0c86-49f5-b48f-ca4ddf109919.gif)
 
 
-<div align="center">                                                                  
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)]
-</div>
+                                                               
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
 
@@ -24,8 +23,8 @@ Ce projet est conçu comme un bac à sable pour apprendre et expérimenter Docke
 
 <div align="center">
   
-  ![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)
-   
+  ![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg) 
+  
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
  
 </div>
