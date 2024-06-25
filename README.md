@@ -12,7 +12,7 @@ Ce projet est conçu comme un bac à sable pour apprendre et expérimenter Docke
 
 
 <div align="center">                                                                  
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)]
 </div>
 
 
