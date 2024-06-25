@@ -40,9 +40,9 @@ Ce projet a pour but de manipuler Docker grâce à une Base de donnée , un Back
 
 ## Etapes pour visionner le projet:
 
-    => Cloner le Projet contenant le Back-End & le Front-End
+    => git clone https://github.com/youcefKNL/docker-practice.git
 
-    => 
+    => docker-compose up --build
 
     => 
 
