@@ -18,7 +18,7 @@ Ce projet est conçu comme un bac à sable pour apprendre et expérimenter avec 
 
 
 
-![Logo](https://meilleur-mooc.fr/wp-content/uploads/2021/11/Openclassrooms.png)
+![Logo](https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png)
 
 
 ## BADGE 
