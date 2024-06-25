@@ -1,0 +1,30 @@
+version: "3.8"
+
+services:
+  backend:
+    build:
+      context: ./Backend
+      dockerfile: Dockerfile
+    ports:
+      - "5678:5678"
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - ./Backend/database.sqlite:/app/Backend/database.sqlite
+    depends_on:
+      - database
+
+  frontend:
+    build:
+      context: ./FrontEnd
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    environment:
+      - NODE_ENV=production
+
+  database:
+    image: alpine:latest
+    volumes:
+      - ./Backend/database.sqlite:/app/Backend/database.sqlite
+    command: tail -f /dev/null
