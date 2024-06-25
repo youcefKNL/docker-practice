@@ -3,6 +3,13 @@
 Ce projet est conçu comme un bac à sable pour apprendre et expérimenter avec Docker et ses fonctionnalités.
 
 
+<div style="text-align:center">
+    <img src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" alt="Logo Docker">
+
+    <img src="https://badgen.net/badge/icon/github?icon=github&label" alt="GitHub Badge">
+</div>
+
+![Logo](https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png)
 
 
 ![GitHub](https://badgen.net/badge/icon/github?icon=github&label)
@@ -18,7 +25,7 @@ Ce projet est conçu comme un bac à sable pour apprendre et expérimenter avec 
 
 
 
-![Logo](https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png)
+
 
 
 ## BADGE 
